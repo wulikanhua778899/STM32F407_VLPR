@@ -1,0 +1,11 @@
+/Objects/*.dep
+/Objects/*.axf
+/Objects/*.htm
+/Objects/*.lnp
+/Objects/*.hex
+
+/Objects/*.o
+/Objects/*.d
+/Objects/*.crf
+
+/Listings
